@@ -1,0 +1,112 @@
+{
+    "title": "Content2049",
+    "path_prefix": "/",
+    "layout_type": "boxed",
+    "style": "bold",
+    "palette": "red",
+    "mode": "dark",
+    "base_font": "sans-serif",
+    "header": {
+        "title": "Podcaster",
+        "logo": "images/logo.svg",
+        "logo_alt": "Podcaster logo",
+        "has_primary_nav": true,
+        "primary_nav_links": [
+            {
+                "label": "Episodes",
+                "url": "/episodes",
+                "style": "link"
+            },
+            {
+                "label": "Speakers",
+                "url": "/speakers",
+                "style": "link"
+            },
+            {
+                "label": "About",
+                "url": "/about",
+                "style": "link"
+            }
+        ],
+        "has_secondary_nav": true,
+        "secondary_nav_links": [
+            {
+                "label": "Subscribe",
+                "url": "/subscribe",
+                "style": "primary"
+            }
+        ]
+    },
+    "footer": {
+        "logo": "images/meson.svg",
+        "logo_alt": "Podcaster logo",
+        "has_primary_nav": true,
+        "primary_nav_links": [
+            {
+                "label": "Episodes",
+                "url": "/episodes",
+                "style": "link"
+            },
+            {
+                "label": "Subscribe",
+                "url": "/subscribe",
+                "style": "link"
+            },
+            {
+                "label": "Speakers",
+                "url": "/speakers",
+                "style": "link"
+            }
+        ],
+        "has_secondary_nav": true,
+        "secondary_nav_links": [
+            {
+                "label": "About",
+                "url": "/about",
+                "style": "link"
+            },
+            {
+                "label": "Notion",
+                "url": "https://meson.network/content2049",
+                "style": "link"
+            },
+            {
+                "label": "Meson Network",
+                "url": "https://meson.network/",
+                "style": "link"
+            }
+        ],
+        "has_tertiary_nav": false,
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/NetworkMeson",
+                "style": "link",
+                "has_icon": true,
+                "icon": "twitter",
+                "icon_position": "center",
+                "new_window": true
+            },
+            {
+                "label": "YouTube",
+                "url": "https://www.youtube.com/c/MesonNetwork",
+                "style": "link",
+                "has_icon": true,
+                "icon": "youtube",
+                "icon_position": "center",
+                "new_window": true
+            },
+            {
+                "label": "GitHub",
+                "url": "https://github.com/daqnext/",
+                "style": "link",
+                "has_icon": true,
+                "icon": "github",
+                "icon_position": "center",
+                "new_window": true
+            }
+        ],
+        "content": "&copy; Meson Network. All rights reserved."
+    }
+}
