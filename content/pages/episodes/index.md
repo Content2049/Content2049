@@ -40,7 +40,7 @@ seo:
       value: List of episodes in order
       keyName: property
     - name: og:image
-      value: images/about.jpg
+      value: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/images/about.jpg
       keyName: property
       relativeUrl: true
     - name: twitter:card
@@ -50,7 +50,7 @@ seo:
     - name: twitter:description
       value: List of episodes in order
     - name: twitter:image
-      value: images/about.jpg
+      value: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/images/about.jpg
       relativeUrl: true
 layout: advanced
 ---

@@ -4,9 +4,9 @@ subtitle: >-
 date: 2022-03-10
 categories:
   - content/data/categories/season-2.yaml
-thumb_image: episodes/Content2049-EP-9-Two-Sides-of-Privacy.jpeg
+thumb_image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-9-Two-Sides-of-Privacy.jpeg
 thumb_image_alt: Episode 9 placeholder image
-image: episodes/Content2049-EP-9-Two-Sides-of-Privacy.jpeg
+image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-9-Two-Sides-of-Privacy.jpeg
 image_alt: Episode 9 placeholder image
 image_position: left
 episode_embed_html: >-
@@ -25,7 +25,7 @@ seo:
       value: Content2049 EP 9 Two Sides of Privacy
       keyName: property
     - name: og:image
-      value: episodes/Content2049-EP-9-Two-Sides-of-Privacy.jpeg
+      value: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-9-Two-Sides-of-Privacy.jpeg
       keyName: property
       relativeUrl: true
     - name: twitter:card
@@ -35,7 +35,7 @@ seo:
     - name: twitter:description
       value: Content2049 EP 9 Two Sides of Privacy
     - name: twitter:image
-      value: episodes/Content2049-EP-9-Two-Sides-of-Privacy.jpeg
+      value: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-9-Two-Sides-of-Privacy.jpeg
       relativeUrl: true
 layout: post
 ---

@@ -4,9 +4,9 @@ subtitle: >-
 date: 2021-12-16
 categories:
   - content/data/categories/season-1.yaml
-thumb_image: episodes/Content2049-EP-1-Reinvent-Web-Content.jpeg
+thumb_image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-1-Reinvent-Web-Content.jpeg
 thumb_image_alt: Podcast 1 placeholder image
-image: episodes/Content2049-EP-1-Reinvent-Web-Content.jpeg
+image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-1-Reinvent-Web-Content.jpeg
 image_alt: Podcast 1 placeholder image
 image_position: left
 episode_embed_html: >-
@@ -25,7 +25,7 @@ seo:
       value: Content2049 EP 1 Reinvent Web Content
       keyName: property
     - name: og:image
-      value: episodes/Content2049-EP-1-Reinvent-Web-Content.jpeg
+      value: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-1-Reinvent-Web-Content.jpeg
       keyName: property
       relativeUrl: true
     - name: twitter:card
@@ -35,7 +35,7 @@ seo:
     - name: twitter:description
       value: Content2049 EP 1 Reinvent Web Content
     - name: twitter:image
-      value: episodes/Content2049-EP-1-Reinvent-Web-Content.jpeg
+      value: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-1-Reinvent-Web-Content.jpeg
       relativeUrl: true
 layout: post
 ---
