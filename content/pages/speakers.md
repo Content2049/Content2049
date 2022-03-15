@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Speakers
     subtitle: >-
-      Speakers Of Past Talks
+      Speakers of Past Talks
     align: center
     padding_top: large
     padding_bottom: none
@@ -13,7 +13,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Tim Khoury
-        content: Investor Of DCG
+        content: Investor of DCG
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/khoury.jpeg
@@ -38,7 +38,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Harry Halpin
-        content: CEO Of Nym Technologies
+        content: CEO of Nym Technologies
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/harryhalpin.png
@@ -63,7 +63,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Mark Phillips
-        content: VP Of Helium
+        content: VP of Helium
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/pharkmillups.png
@@ -88,7 +88,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Sebastian
-        content: COO Of Arweave
+        content: COO of Arweave
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/sebastiancamposgroth.jpeg
@@ -113,7 +113,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Spenser Huang
-        content: Managing Director Of Coinlist
+        content: Managing Director of Coinlist
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/huangspenser.jpeg
@@ -138,7 +138,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Tomas Molin
-        content: Research Of Messari
+        content: Research of Messari
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/tomasm.jpeg
@@ -163,7 +163,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Suji Yan
-        content: Founder Of Mask Network
+        content: Founder of Mask Network
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/sujiyan.jpeg
@@ -181,7 +181,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Micha Roon
-        content: Chief Innovation Officer Of Energy Web
+        content: Chief Innovation Officer of Energy Web
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/drgorb.jpeg
@@ -206,7 +206,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Eric Tang
-        content: CTO Of Livepeer 
+        content: CTO of Livepeer 
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/ericxtang.jpeg
@@ -231,7 +231,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Yisi Liu
-        content: CTO Of Mask Network
+        content: CTO of Mask Network
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/yisiliu.png
@@ -249,7 +249,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Xylophone
-        content: COfounder Of Arweave News
+        content: Cofounder of Arweave News
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/xylophonezy.jpeg
@@ -267,7 +267,7 @@ sections:
             new_window: true
         actions_align: center
       - title: John Letey
-        content: CTO Of KYVE Network
+        content: CTO of KYVE Network
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/johnletey.jpeg
@@ -292,7 +292,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Nader Dabit
-        content: DevRel Of Edge & Node
+        content: DevRel of The Graph
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/dabit3.jpeg
@@ -317,7 +317,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Sara Feenan
-        content: Product Owner Of Infura
+        content: Product Owner of Infura
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/saronimo.jpeg
@@ -342,7 +342,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Rob Sarrow
-        content: Ventures Associate Of Delphi Digital
+        content: Ventures Associate of Delphi Digital
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/rsarrow.jpeg
@@ -367,7 +367,7 @@ sections:
             new_window: true
         actions_align: center
       - title: CaoYin
-        content: CEO Of Digital Renaissance
+        content: CEO of Digital Renaissance
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/caoyin.png
@@ -392,7 +392,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Bob Chien
-        content: BD Head Of ProjectGalaxy
+        content: BD Head of ProjectGalaxy
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/bobchien.jpeg
@@ -417,7 +417,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Shiyu
-        content: COO Of CyberConnect 
+        content: COO of CyberConnect 
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/shiyu.png
@@ -442,7 +442,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Mori
-        content: Partner Of Treasureland
+        content: Partner of Treasureland
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/mori.jpeg
@@ -460,7 +460,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Kevin Primicerio
-        content: CEO Of Pianity
+        content: CEO of Pianity
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/kevinprimicerio.jpeg
@@ -485,7 +485,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Jenny Zheng
-        content: BD Lead Of Bybit NFT
+        content: BD Lead of Bybit NFT
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/jennyzheng719.jpeg
@@ -503,7 +503,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Yalu Lin
-        content: COfounder Of Melos Studio
+        content: Cofounder of Melos Studio
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/yalulin.jpeg
@@ -528,7 +528,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Al Morris
-        content: Founder Of Koii Network
+        content: Founder of Koii Network
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/alexanderdmorris.png
@@ -553,7 +553,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Prashant Maurya
-        content: CEO Of Spheron Protocol
+        content: CEO of Spheron Protocol
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/techprashantmaurya.jpeg
@@ -578,7 +578,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Nathan VDH
-        content: Head Of Growth Of Snapshot  
+        content: Head of Growth of Snapshot  
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/nathanvdh.jpeg
@@ -596,7 +596,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Minh Doan
-        content: CEO Of MassBit  
+        content: CEO of MassBit  
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/daywednes.jpeg
@@ -621,7 +621,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Alan Scott
-        content: Project Advisor Of RAILGUN
+        content: Project Advisor of RAILGUN
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/alanscott.jpeg
@@ -646,7 +646,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Harrison Seletsky
-        content: Comms Head Of NFTrade
+        content: Comms Head of NFTrade
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/harrisonseletsky.jpeg
@@ -656,7 +656,7 @@ sections:
         image_has_padding: true
         actions:
           - label: Twitter
-            url: https://twitter.com/NFTradeOfficial
+            url: https://twitter.com/NFTradeofficial
             style: link
             has_icon: true
             icon: twitter
@@ -671,7 +671,7 @@ sections:
             new_window: true
         actions_align: center
       - title: REG
-        content: Lead for Comms and PR Of KlimaDAO
+        content: Lead for Comms and PR of KlimaDAO
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/reg.jpg
@@ -689,7 +689,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Mara
-        content: Marketing Of Solanart
+        content: Marketing of Solanart
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/mara.jpeg
@@ -707,7 +707,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Jayson Tan
-        content: CMO Of Torum Technology
+        content: CMO of Torum Technology
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/jayson_torum.jpeg
@@ -732,7 +732,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Dyno
-        content: Core contributor Of OpenDAO
+        content: Core contributor of OpenDAO
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/dyno.png
@@ -750,7 +750,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Alisha
-        content: Community Lead Of ENS
+        content: Community Lead of ENS
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/alisha.jpeg
@@ -775,7 +775,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Michael Zhou
-        content: Core Developer Of Celer Network
+        content: Core Developer of Celer Network
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/michaelzhou.jpeg
@@ -800,7 +800,7 @@ sections:
             new_window: true
         actions_align: center
       - title: RyanCoordinator
-        content: Operations Lead Of DeveloperDAO
+        content: Operations Lead of DeveloperDAO
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/ryancoordinator.jpeg
@@ -818,7 +818,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Taylor Zhang
-        content: Ecosystem Lead Of Mask Network
+        content: Ecosystem Lead of Mask Network
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/tianranzhang.jpg
@@ -843,7 +843,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Chris Zhu
-        content: CEO Of Mirror World
+        content: CEO of Mirror World
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/chrizhuu.jpeg
@@ -868,7 +868,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Mat Yarger
-        content: Head Of Smart Mobility Of IOTA
+        content: Head of Smart Mobility of IOTA
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/mathewyarger.jpeg
@@ -893,7 +893,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Joseph Pallant
-        content: Founder Of BlockForClimate
+        content: Founder of BlockForClimate
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/josephpallant.jpeg
@@ -918,7 +918,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Chris Wang
-        content: CEO Of ThunderCore
+        content: CEO of ThunderCore
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/chriswang.jpeg
@@ -943,7 +943,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Ethan Wu
-        content: Developer Community Lead Of Numbers Protocol
+        content: Developer Community Lead of Numbers Protocol
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/ewu.jpeg
@@ -968,7 +968,7 @@ sections:
             new_window: true
         actions_align: center
       - title: stz
-        content: Superhuman Of RSS3
+        content: Superhuman of RSS3
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/stz.jpeg
@@ -986,7 +986,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Serge Ajamian
-        content: CBO Of BeemUp
+        content: CBO of BeemUp
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/sergeajamian.jpg
@@ -1011,7 +1011,7 @@ sections:
             new_window: true
         actions_align: center
       - title: Taranveer Sabharwal
-        content: Student Of Cambridge University
+        content: Student of Cambridge University
         title_align: center
         content_align: center
         image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/taranveerss.jpeg
@@ -1056,7 +1056,7 @@ sections:
   # - type: grid_section
   #   grid_items:
   #     - title: Howard Zen
-  #       content: Cheer Lead Of Meson Network
+  #       content: Cheer Lead of Meson Network
   #       title_align: center
   #       content_align: center
   #       image: speakers/howardzen.jpeg
@@ -1081,7 +1081,7 @@ sections:
   #           new_window: true
   #       actions_align: center
   #     - title: Sherlock Shi
-  #       content: COfounder Of Meson Network
+  #       content: Cofounder of Meson Network
   #       title_align: center
   #       content_align: center
   #       image: speakers/sherlockshi.jpeg
@@ -1116,7 +1116,7 @@ sections:
   #  background_color: none
 seo:
   title: Speakers | Content2049
-  description: Speakers Of Past Talks
+  description: Speakers of Past Talks
   extra:
     - name: og:type
       value: website
@@ -1125,7 +1125,7 @@ seo:
       value: Subscribe
       keyName: property
     - name: og:description
-      value: Speakers Of Past Talks
+      value: Speakers of Past Talks
       keyName: property
     - name: og:image
       value: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/images/about.jpg
@@ -1136,7 +1136,7 @@ seo:
     - name: twitter:title
       value: Subscribe
     - name: twitter:description
-      value: Speakers Of Past Talks
+      value: Speakers of Past Talks
     - name: twitter:image
       value: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/images/about.jpg
       relativeUrl: true
