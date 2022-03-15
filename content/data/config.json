@@ -58,21 +58,17 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Email",
-                "url": "mailto:admin@meson.network"
-                "new_window": true
+                "label": "Email:admin@meson.network"
             },
             {
                 "label": "Notion",
                 "url": "https://meson.network/content2049",
                 "style": "link"
-                "new_window": true
             },
             {
                 "label": "Meson Network",
                 "url": "https://meson.network/",
                 "style": "link"
-                "new_window": true
             }
         ],
         "has_tertiary_nav": false,
