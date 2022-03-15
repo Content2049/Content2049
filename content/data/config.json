@@ -59,8 +59,7 @@
         "secondary_nav_links": [
             {
                 "label": "Email",
-                "url": "mailto:admin@meson.network",
-                "style": "link"
+                "url": "admin@meson.network"
             },
             {
                 "label": "Notion",
