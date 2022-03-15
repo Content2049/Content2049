@@ -60,16 +60,19 @@
             {
                 "label": "Email",
                 "url": "admin@meson.network"
+                "new_window": true
             },
             {
                 "label": "Notion",
                 "url": "https://meson.network/content2049",
                 "style": "link"
+                "new_window": true
             },
             {
                 "label": "Meson Network",
                 "url": "https://meson.network/",
                 "style": "link"
+                "new_window": true
             }
         ],
         "has_tertiary_nav": false,
