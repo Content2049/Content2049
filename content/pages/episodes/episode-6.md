@@ -4,9 +4,9 @@ subtitle: >-
 date: 2022-02-10
 categories:
   - content/data/categories/season-1.yaml
-thumb_image: episodes/Content2049-EP-6-Cross-Chain-Impact.jpeg
+thumb_image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-6-Cross-Chain-Impact.jpeg
 thumb_image_alt: Episode 6 placeholder image
-image: episodes/Content2049-EP-6-Cross-Chain-Impact.jpeg
+image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-6-Cross-Chain-Impact.jpeg
 image_alt: Episode 6 placeholder image
 image_position: right
 episode_embed_html: >-
@@ -25,7 +25,7 @@ seo:
       value: Content2049 EP 6 Cross Chain Impact
       keyName: property
     - name: og:image
-      value: episodes/Content2049-EP-6-Cross-Chain-Impact.jpeg
+      value: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-6-Cross-Chain-Impact.jpeg
       keyName: property
       relativeUrl: true
     - name: twitter:card
@@ -35,7 +35,7 @@ seo:
     - name: twitter:description
       value: Content2049 EP 6 Cross Chain Impact
     - name: twitter:image
-      value: episodes/Content2049-EP-6-Cross-Chain-Impact.jpeg
+      value: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-6-Cross-Chain-Impact.jpeg
       relativeUrl: true
 layout: post
 ---

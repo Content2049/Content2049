@@ -4,9 +4,9 @@ subtitle: >-
 date: 2022-01-04
 categories:
   - content/data/categories/season-1.yaml
-thumb_image: episodes/Content2049-EP-2-Content-Renaissance-In-Web3.jpeg
+thumb_image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-2-Content-Renaissance-In-Web3.jpeg
 thumb_image_alt: Podcast 2 placeholder image
-image: episodes/Content2049-EP-2-Content-Renaissance-In-Web3.jpeg
+image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-2-Content-Renaissance-In-Web3.jpeg
 image_alt: Podcast 2 placeholder image
 image_position: right
 episode_embed_html: >-
@@ -25,7 +25,7 @@ seo:
       value: Content2049 EP 2 Content Renaissance In Web3
       keyName: property
     - name: og:image
-      value: episodes/Content2049-EP-2-Content-Renaissance-In-Web3.jpeg
+      value: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-2-Content-Renaissance-In-Web3.jpeg
       keyName: property
       relativeUrl: true
     - name: twitter:card
@@ -35,7 +35,7 @@ seo:
     - name: twitter:description
       value: Content2049 EP 2 Content Renaissance In Web3
     - name: twitter:image
-      value: episodes/Content2049-EP-2-Content-Renaissance-In-Web3.jpeg
+      value: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-2-Content-Renaissance-In-Web3.jpeg
       relativeUrl: true
 layout: post
 ---

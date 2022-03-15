@@ -4,9 +4,9 @@ subtitle: >-
 date: 2022-02-24
 categories:
   - content/data/categories/season-1.yaml
-thumb_image: episodes/Content2049-EP-7-Best-Tech-In-NFT-Marketplace.jpeg
+thumb_image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-7-Best-Tech-In-NFT-Marketplace.jpeg
 thumb_image_alt: Content2049 EP 7 Best Tech In NFT Marketplace
-image: episodes/Content2049-EP-7-Best-Tech-In-NFT-Marketplace.jpeg
+image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-7-Best-Tech-In-NFT-Marketplace.jpeg
 image_alt: Content2049 EP 7 Best Tech In NFT Marketplace
 image_position: left
 episode_embed_html: >-
@@ -25,7 +25,7 @@ seo:
       value: Content2049 EP 7 Best Tech In NFT Marketplace
       keyName: property
     - name: og:image
-      value: episodes/Content2049-EP-7-Best-Tech-In-NFT-Marketplace.jpeg
+      value: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-7-Best-Tech-In-NFT-Marketplace.jpeg
       keyName: property
       relativeUrl: true
     - name: twitter:card
@@ -35,7 +35,7 @@ seo:
     - name: twitter:description
       value: Content2049 EP 7 Best Tech In NFT Marketplace
     - name: twitter:image
-      value: episodes/Content2049-EP-7-Best-Tech-In-NFT-Marketplace.jpeg
+      value: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-7-Best-Tech-In-NFT-Marketplace.jpeg
       relativeUrl: true
 layout: post
 ---
