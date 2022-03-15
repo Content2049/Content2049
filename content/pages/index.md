@@ -43,26 +43,14 @@ sections:
         image_align: center
         image_has_padding: true
         actions_align: center
-      - image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/images/mark.png
-        image_alt: Mark Phillips Helium
-        image_position: top
-        image_align: center
-        image_has_padding: true
-        actions_align: center
-      - image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/images/spenser.png
-        image_alt: Spenser Huang Coinlist
-        image_position: top
-        image_align: center
-        image_has_padding: true
-        actions_align: center
       - image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/images/harry.png
         image_alt: Harry Halpin Nym
         image_position: top
         image_align: center
         image_has_padding: true
         actions_align: center
-      - image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/images/rob.png
-        image_alt: Rob Sarrow Delphi Digital
+      - image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/images/mark.png
+        image_alt: Mark Phillips Helium
         image_position: top
         image_align: center
         image_has_padding: true
@@ -73,8 +61,44 @@ sections:
         image_align: center
         image_has_padding: true
         actions_align: center
+      - image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/images/rob.png
+        image_alt: Rob Sarrow Delphi Digital
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions_align: center
+      - image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/images/spenser.png
+        image_alt: Spenser Huang Coinlist
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions_align: center
       - image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/images/dabit.png
         image_alt: Nader Dabit Edge & Node
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions_align: center
+      - image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/images/erict.png
+        image_alt: Eric Tang Livepeer 
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions_align: center
+      - image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/images/suji.png
+        image_alt: Suji Yan Mask Network
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions_align: center
+      - image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/images/micha.png
+        image_alt: Micha Roon Energy Web
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions_align: center
+      - image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/images/johnl.png
+        image_alt: John Letey KYVE Network
         image_position: top
         image_align: center
         image_has_padding: true
