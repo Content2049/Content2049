@@ -113,6 +113,10 @@ sections:
     show_categories: false
     show_author: false
     show_excerpt: false
+    actions:
+      - label: More
+        url: /episodes
+        style: primary
     align: center
     padding_top: medium
     padding_bottom: medium
@@ -176,10 +180,6 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-    actions:
-      - label: More
-        url: /subscribe
-        style: secondary
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: medium
