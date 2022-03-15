@@ -1122,7 +1122,7 @@ seo:
       value: website
       keyName: property
     - name: og:title
-      value: Subscribe
+      value: Speakers
       keyName: property
     - name: og:description
       value: Speakers of Past Talks
@@ -1134,7 +1134,7 @@ seo:
     - name: twitter:card
       value: summary_large_image
     - name: twitter:title
-      value: Subscribe
+      value: Speakers
     - name: twitter:description
       value: Speakers of Past Talks
     - name: twitter:image
