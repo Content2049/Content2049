@@ -27,14 +27,6 @@
                 "url": "/about",
                 "style": "link"
             }
-        ],
-        "has_secondary_nav": true,
-        "secondary_nav_links": [
-            {
-                "label": "Subscribe",
-                "url": "/subscribe",
-                "style": "primary"
-            }
         ]
     },
     "footer": {
@@ -42,6 +34,11 @@
         "logo_alt": "Podcaster logo",
         "has_primary_nav": true,
         "primary_nav_links": [
+            {
+                "label": "About",
+                "url": "/about",
+                "style": "link"
+            },
             {
                 "label": "Episodes",
                 "url": "/episodes",
@@ -61,8 +58,8 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "About",
-                "url": "/about",
+                "label": "Email",
+                "url": "mailto:admin@meson.network",
                 "style": "link"
             },
             {
@@ -94,6 +91,15 @@
                 "style": "link",
                 "has_icon": true,
                 "icon": "youtube",
+                "icon_position": "center",
+                "new_window": true
+            },
+            {
+                "label": "Email",
+                "url": "mailto:admin@meson.network",
+                "style": "link",
+                "has_icon": true,
+                "icon": "email",
                 "icon_position": "center",
                 "new_window": true
             },
