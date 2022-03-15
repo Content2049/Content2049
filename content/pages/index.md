@@ -230,7 +230,7 @@ sections:
     background_image_opacity: 98
 seo:
   title: Content2049 | Insights Worth Spreading
-  description: Thoughts leadership platform for Web3 Creators, Builders and Advocates.
+  description: Insights Worth Spreading
   extra:
     - name: og:type
       value: website
@@ -239,7 +239,7 @@ seo:
       value: Content2049
       keyName: property
     - name: og:description
-      value: Thoughts leadership platform for Web3 Creators, Builders and Advocates.
+      value: Insights Worth Spreading
       keyName: property
     - name: og:image
       value: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/images/astro.png
@@ -250,7 +250,7 @@ seo:
     - name: twitter:title
       value: Content2049
     - name: twitter:description
-      value: Thoughts leadership platform for Web3 Creators, Builders and Advocates.
+      value: Insights Worth Spreading
     - name: twitter:image
       value: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/images/astro.png
       relativeUrl: true
