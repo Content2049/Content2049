@@ -24,7 +24,7 @@ sections:
             icon_position: right
             new_window: true
         actions_align: center
-        image: podcasts/applepodcasts.svg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/podcasts/applepodcasts.svg
         image_alt: Apple Podcasts icon
         image_position: top
         image_align: center
@@ -41,7 +41,7 @@ sections:
             icon_position: right
             new_window: true
         actions_align: center
-        image: podcasts/permacast.svg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/podcasts/permacast.svg
         image_alt: Permacast icon
         image_position: top
         image_align: center
@@ -58,7 +58,7 @@ sections:
             icon_position: right
             new_window: true
         actions_align: center
-        image: podcasts/spotify.svg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/podcasts/spotify.svg
         image_alt: Spotify icon
         image_position: top
         image_align: center
@@ -75,7 +75,7 @@ sections:
             icon_position: right
             new_window: true
         actions_align: center
-        image: podcasts/googlepodcasts.svg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/podcasts/googlepodcasts.svg
         image_alt: Google Podcasts icon
         image_position: top
         image_align: center
@@ -92,7 +92,7 @@ sections:
             icon_position: right
             new_window: true
         actions_align: center
-        image: podcasts/radiopublic.svg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/podcasts/radiopublic.svg
         image_alt: RadioPublic icon
         image_position: top
         image_align: center
@@ -109,7 +109,7 @@ sections:
             icon_position: right
             new_window: true
         actions_align: center
-        image: podcasts/firstory.svg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/podcasts/firstory.svg
         image_alt: Firstory icon
         image_position: top
         image_align: center
@@ -126,7 +126,7 @@ sections:
             icon_position: right
             new_window: true
         actions_align: center
-        image: podcasts/castbox.svg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/podcasts/castbox.svg
         image_alt: Castbox icon
         image_position: top
         image_align: center
@@ -143,7 +143,7 @@ sections:
             icon_position: right
             new_window: true
         actions_align: center
-        image: podcasts/playerfm.svg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/podcasts/playerfm.svg
         image_alt: PlayerFM icon
         image_position: top
         image_align: center
@@ -160,7 +160,7 @@ sections:
             icon_position: right
             new_window: true
         actions_align: center
-        image: podcasts/podcastaddict.svg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/podcasts/podcastaddict.svg
         image_alt: Podcast Addict icon
         image_position: top
         image_align: center
@@ -177,7 +177,7 @@ sections:
             icon_position: right
             new_window: true
         actions_align: center
-        image: podcasts/youtube.svg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/podcasts/youtube.svg
         image_alt: YouTube icon
         image_position: top
         image_align: center
@@ -194,7 +194,7 @@ sections:
             icon_position: right
             new_window: true
         actions_align: center
-        image: podcasts/rss.svg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/podcasts/rss.svg
         image_alt: RSS icon
         image_position: top
         image_align: center
@@ -210,7 +210,7 @@ sections:
     background_color: none
 seo:
   title: Subscribe | Content2049
-  description: #Content2049 is a series of Twitter Space.
+  description: Content2049 is a series of Twitter Space.
   extra:
     - name: og:type
       value: website
@@ -219,10 +219,10 @@ seo:
       value: Subscribe
       keyName: property
     - name: og:description
-      value: #Content2049 is a series of Twitter Space.
+      value: Content2049 is a series of Twitter Space.
       keyName: property
     - name: og:image
-      value: images/about.jpg
+      value: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/images/about.jpg
       keyName: property
       relativeUrl: true
     - name: twitter:card
@@ -230,9 +230,9 @@ seo:
     - name: twitter:title
       value: Subscribe
     - name: twitter:description
-      value: #Content2049 is a series of Twitter Space.
+      value: Content2049 is a series of Twitter Space.
     - name: twitter:image
-      value: images/about.jpg
+      value: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/images/about.jpg
       relativeUrl: true
 layout: advanced
 ---

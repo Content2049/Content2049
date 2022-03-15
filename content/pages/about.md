@@ -24,7 +24,7 @@ seo:
       value: Thoughts leadership platform for Web3 Creators, Builders and Advocates.
       keyName: property
     - name: og:image
-      value: images/about.jpg
+      value: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/images/about.jpg
       keyName: property
       relativeUrl: true
     - name: twitter:card
@@ -34,12 +34,12 @@ seo:
     - name: twitter:description
       value: Thoughts leadership platform for Web3 Creators, Builders and Advocates.
     - name: twitter:image
-      value: images/about.jpg
+      value: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/images/about.jpg
       relativeUrl: true
 layout: page
 ---
 
-![Me doing live podcast](/images/about.jpg)
+![Me doing live podcast](https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/images/about.jpg)
 
 **#Content2049** is a series of Twitter Space. 
 
