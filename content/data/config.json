@@ -59,7 +59,7 @@
         "secondary_nav_links": [
             {
                 "label": "Email",
-                "url": "admin@meson.network"
+                "url": "mailto:admin@meson.network"
                 "new_window": true
             },
             {
