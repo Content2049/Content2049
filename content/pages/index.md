@@ -176,6 +176,10 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
+    actions:
+      - label: More
+        url: /subscribe
+        style: primary
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: medium
@@ -190,7 +194,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
   - type: grid_section
-    title: Co Host
+    title: Co-Host
     align: center
     grid_items:
       - image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/images/Arweave.svg
