@@ -16,7 +16,7 @@ sections:
         content: Investor of DCG
         title_align: center
         content_align: center
-        image: speakers/khoury.jpeg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/khoury.jpeg
         image_alt: Tim Khoury Digital Currency Group
         image_position: top
         image_align: center
@@ -41,7 +41,7 @@ sections:
         content: CEO of Nym Technologies
         title_align: center
         content_align: center
-        image: speakers/harryhalpin.png
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/harryhalpin.png
         image_alt: zen
         image_position: top
         image_align: center
@@ -66,7 +66,7 @@ sections:
         content: VP of Helium
         title_align: center
         content_align: center
-        image: speakers/pharkmillups.png
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/pharkmillups.png
         image_alt: Mark Phillips Helium
         image_position: top
         image_align: center
@@ -91,7 +91,7 @@ sections:
         content: COO of Arweave
         title_align: center
         content_align: center
-        image: speakers/sebastiancamposgroth.jpeg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/sebastiancamposgroth.jpeg
         image_alt: Sebastian Campos Groth Arweave
         image_position: top
         image_align: center
@@ -116,7 +116,7 @@ sections:
         content: Managing Director of Coinlist
         title_align: center
         content_align: center
-        image: speakers/huangspenser.jpeg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/huangspenser.jpeg
         image_alt: Spenser Huang Coinlist
         image_position: top
         image_align: center
@@ -141,7 +141,7 @@ sections:
         content: Research of Messari
         title_align: center
         content_align: center
-        image: speakers/tomasm.jpeg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/tomasm.jpeg
         image_alt: Tomas Molin Messari
         image_position: top
         image_align: center
@@ -166,7 +166,7 @@ sections:
         content: Founder of Mask Network
         title_align: center
         content_align: center
-        image: speakers/sujiyan.jpeg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/sujiyan.jpeg
         image_alt: Suji Yan Mask Network
         image_position: top
         image_align: center
@@ -184,7 +184,7 @@ sections:
         content: Chief Innovation Officer of Energy Web
         title_align: center
         content_align: center
-        image: speakers/drgorb.jpeg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/drgorb.jpeg
         image_alt: Micha Roon Energy Web
         image_position: top
         image_align: center
@@ -209,7 +209,7 @@ sections:
         content: CTO of Livepeer 
         title_align: center
         content_align: center
-        image: speakers/ericxtang.jpeg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/ericxtang.jpeg
         image_alt: Eric Tang Livepeer 
         image_position: top
         image_align: center
@@ -234,7 +234,7 @@ sections:
         content: CTO of Mask Network
         title_align: center
         content_align: center
-        image: speakers/yisiliu.png
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/yisiliu.png
         image_alt: Yisi Liu Mask Network
         image_position: top
         image_align: center
@@ -252,7 +252,7 @@ sections:
         content: CoFounder of Arweave News
         title_align: center
         content_align: center
-        image: speakers/xylophonezy.jpeg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/xylophonezy.jpeg
         image_alt: Xylophone Arweave News
         image_position: top
         image_align: center
@@ -270,7 +270,7 @@ sections:
         content: CTO of KYVE Network
         title_align: center
         content_align: center
-        image: speakers/johnletey.jpeg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/johnletey.jpeg
         image_alt: John Letey KYVE Network
         image_position: top
         image_align: center
@@ -295,7 +295,7 @@ sections:
         content: DevRel of Edge & Node
         title_align: center
         content_align: center
-        image: speakers/dabit3.jpeg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/dabit3.jpeg
         image_alt: Nader Dabit Edge & Node
         image_position: top
         image_align: center
@@ -320,7 +320,7 @@ sections:
         content: Product Owner of Infura
         title_align: center
         content_align: center
-        image: speakers/saronimo.jpeg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/saronimo.jpeg
         image_alt: Sara Feenan Infura
         image_position: top
         image_align: center
@@ -345,7 +345,7 @@ sections:
         content: Ventures Associate of Delphi Digital
         title_align: center
         content_align: center
-        image: speakers/rsarrow.jpeg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/rsarrow.jpeg
         image_alt: Rob Sarrow Delphi Digital
         image_position: top
         image_align: center
@@ -370,7 +370,7 @@ sections:
         content: CEO of Digital Renaissance
         title_align: center
         content_align: center
-        image: speakers/caoyin.png
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/caoyin.png
         image_alt: CaoYin Digital Renaissance
         image_position: top
         image_align: center
@@ -395,7 +395,7 @@ sections:
         content: BD Head of ProjectGalaxy
         title_align: center
         content_align: center
-        image: speakers/bobchien.jpeg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/bobchien.jpeg
         image_alt: Bob Chien ProjectGalaxy
         image_position: top
         image_align: center
@@ -420,7 +420,7 @@ sections:
         content: COO of CyberConnect 
         title_align: center
         content_align: center
-        image: speakers/shiyu.png
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/shiyu.png
         image_alt: Bob Chien ProjectGalaxy
         image_position: top
         image_align: center
@@ -445,7 +445,7 @@ sections:
         content: Partner of Treasureland
         title_align: center
         content_align: center
-        image: speakers/mori.jpeg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/mori.jpeg
         image_alt: Mori Treasureland
         image_position: top
         image_align: center
@@ -463,7 +463,7 @@ sections:
         content: CEO of Pianity
         title_align: center
         content_align: center
-        image: speakers/kevinprimicerio.jpeg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/kevinprimicerio.jpeg
         image_alt: Kevin Primicerio Pianity
         image_position: top
         image_align: center
@@ -488,7 +488,7 @@ sections:
         content: BD Lead of Bybit NFT
         title_align: center
         content_align: center
-        image: speakers/jennyzheng719.jpeg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/jennyzheng719.jpeg
         image_alt: Jenny Zheng Bybit NFT
         image_position: top
         image_align: center
@@ -506,7 +506,7 @@ sections:
         content: Cofounder of Melos Studio
         title_align: center
         content_align: center
-        image: speakers/yalulin.jpeg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/yalulin.jpeg
         image_alt: Yalu Lin Melos Studio 
         image_position: top
         image_align: center
@@ -531,7 +531,7 @@ sections:
         content: Founder of Koii Network
         title_align: center
         content_align: center
-        image: speakers/alexanderdmorris.png
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/alexanderdmorris.png
         image_alt: al Koii Network
         image_position: top
         image_align: center
@@ -556,7 +556,7 @@ sections:
         content: CEO of Spheron Protocol
         title_align: center
         content_align: center
-        image: speakers/techprashantmaurya.jpeg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/techprashantmaurya.jpeg
         image_alt: Prashant Maurya Spheron Protocol
         image_position: top
         image_align: center
@@ -581,7 +581,7 @@ sections:
         content: Head of Growth of Snapshot  
         title_align: center
         content_align: center
-        image: speakers/nathanvdh.jpeg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/nathanvdh.jpeg
         image_alt: Nathan VDH Snapshot  
         image_position: top
         image_align: center
@@ -599,7 +599,7 @@ sections:
         content: CEO of MassBit  
         title_align: center
         content_align: center
-        image: speakers/daywednes.jpeg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/daywednes.jpeg
         image_alt: Minh Doan MassBit
         image_position: top
         image_align: center
@@ -624,7 +624,7 @@ sections:
         content: Project Advisor of RAILGUN
         title_align: center
         content_align: center
-        image: speakers/alanscott.jpeg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/alanscott.jpeg
         image_alt: Alan Scott RAILGUN
         image_position: top
         image_align: center
@@ -649,7 +649,7 @@ sections:
         content: Comms Head of NFTrade
         title_align: center
         content_align: center
-        image: speakers/harrisonseletsky.jpeg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/harrisonseletsky.jpeg
         image_alt: Harrison Seletsky NFTrade
         image_position: top
         image_align: center
@@ -674,7 +674,7 @@ sections:
         content: Lead for Comms and PR of KlimaDAO
         title_align: center
         content_align: center
-        image: speakers/reg.jpg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/reg.jpg
         image_alt: REG KlimaDAO
         image_position: top
         image_align: center
@@ -692,7 +692,7 @@ sections:
         content: Marketing of Solanart
         title_align: center
         content_align: center
-        image: speakers/mara.jpeg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/mara.jpeg
         image_alt: Mara Solanart
         image_position: top
         image_align: center
@@ -710,7 +710,7 @@ sections:
         content: CMO of Torum Technology
         title_align: center
         content_align: center
-        image: speakers/jayson_torum.jpeg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/jayson_torum.jpeg
         image_alt: Jayson Tan Torum
         image_position: top
         image_align: center
@@ -735,7 +735,7 @@ sections:
         content: Core contributor of OpenDAO
         title_align: center
         content_align: center
-        image: speakers/dyno.png
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/dyno.png
         image_alt: Dyno OpenDAO
         image_position: top
         image_align: center
@@ -753,7 +753,7 @@ sections:
         content: Community Lead of ENS
         title_align: center
         content_align: center
-        image: speakers/alisha.jpeg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/alisha.jpeg
         image_alt: Alisha ENS
         image_position: top
         image_align: center
@@ -778,7 +778,7 @@ sections:
         content: Core Developer of Celer Network
         title_align: center
         content_align: center
-        image: speakers/michaelzhou.jpeg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/michaelzhou.jpeg
         image_alt: Dyno OpenDAO
         image_position: top
         image_align: center
@@ -803,7 +803,7 @@ sections:
         content: Operations Lead of DeveloperDAO
         title_align: center
         content_align: center
-        image: speakers/ryancoordinator.jpeg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/ryancoordinator.jpeg
         image_alt: RyanCoordinator DeveloperDAO
         image_position: top
         image_align: center
@@ -821,7 +821,7 @@ sections:
         content: Ecosystem Lead of Mask Network
         title_align: center
         content_align: center
-        image: speakers/tianranzhang.jpg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/tianranzhang.jpg
         image_alt: Taylor Zhang Mask Network
         image_position: top
         image_align: center
@@ -846,7 +846,7 @@ sections:
         content: CEO of Mirror World
         title_align: center
         content_align: center
-        image: speakers/chrizhuu.jpeg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/chrizhuu.jpeg
         image_alt: Chris Zhu Mirror World
         image_position: top
         image_align: center
@@ -871,7 +871,7 @@ sections:
         content: Head of Smart Mobility of IOTA
         title_align: center
         content_align: center
-        image: speakers/mathewyarger.jpeg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/mathewyarger.jpeg
         image_alt: Mat Yarger IOTA Foundation
         image_position: top
         image_align: center
@@ -896,7 +896,7 @@ sections:
         content: Founder of BlockForClimate
         title_align: center
         content_align: center
-        image: speakers/josephpallant.jpeg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/josephpallant.jpeg
         image_alt: Joseph Pallant BlockForClimate
         image_position: top
         image_align: center
@@ -921,7 +921,7 @@ sections:
         content: CEO of ThunderCore
         title_align: center
         content_align: center
-        image: speakers/chriswang.jpeg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/chriswang.jpeg
         image_alt: Chris Wang ThunderCore
         image_position: top
         image_align: center
@@ -946,7 +946,7 @@ sections:
         content: Developer Community Lead of Numbers Protocol
         title_align: center
         content_align: center
-        image: speakers/ewu.jpeg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/ewu.jpeg
         image_alt: Ethan Wu Numbers Protocol
         image_position: top
         image_align: center
@@ -971,7 +971,7 @@ sections:
         content: Superhuman of RSS3
         title_align: center
         content_align: center
-        image: speakers/stz.jpeg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/stz.jpeg
         image_alt: stz RSS3
         image_position: top
         image_align: center
@@ -989,7 +989,7 @@ sections:
         content: CBO of BeemUp
         title_align: center
         content_align: center
-        image: speakers/sergeajamian.jpg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/sergeajamian.jpg
         image_alt: Serge Ajamian BeemUp
         image_position: top
         image_align: center
@@ -1014,7 +1014,7 @@ sections:
         content: Student of Cambridge University
         title_align: center
         content_align: center
-        image: speakers/taranveerss.jpeg
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/taranveerss.jpeg
         image_alt: Taranveer Sabharwal Cambridge Blockchain Society
         image_position: top
         image_align: center
@@ -1128,7 +1128,7 @@ seo:
       value: Speakers Of Past Talks
       keyName: property
     - name: og:image
-      value: images/about.jpg
+      value: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/images/about.jpg
       keyName: property
       relativeUrl: true
     - name: twitter:card
@@ -1138,7 +1138,7 @@ seo:
     - name: twitter:description
       value: Speakers Of Past Talks
     - name: twitter:image
-      value: images/about.jpg
+      value: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/images/about.jpg
       relativeUrl: true
 layout: advanced
 ---
