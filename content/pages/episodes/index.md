@@ -3,7 +3,7 @@ title: Episodes
 sections:
   - type: hero_section
     title: Episodes
-    subtitle: List Of episodes in order
+    subtitle: List of episodes in order
     align: center
     padding_top: medium
     padding_bottom: small
@@ -28,7 +28,7 @@ sections:
     background_image_opacity: 98
 seo:
   title: Episodes | Content2049
-  description: List Of episodes in order
+  description: List of episodes in order
   extra:
     - name: og:type
       value: website
@@ -37,7 +37,7 @@ seo:
       value: Episodes
       keyName: property
     - name: og:description
-      value: List Of episodes in order
+      value: List of episodes in order
       keyName: property
     - name: og:image
       value: images/about.jpg
@@ -48,7 +48,7 @@ seo:
     - name: twitter:title
       value: Episodes
     - name: twitter:description
-      value: List Of episodes in order
+      value: List of episodes in order
     - name: twitter:image
       value: images/about.jpg
       relativeUrl: true

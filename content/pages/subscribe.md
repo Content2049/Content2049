@@ -34,7 +34,7 @@ sections:
         content_align: center
         actions:
           - label: Subscribe
-            url: https://permacast.net/#/podcasts/xYd4ddo1H6vD8jExnpiGPQM4KEYiPAtOFi67ILny1iI
+            url: https://permacast.net/#/podcasts/xYd4ddo1H6vD8jExnpiGPQM4KEYiPAtofi67ILny1iI
             style: secondary
             has_icon: true
             icon: arrow-right
