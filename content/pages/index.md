@@ -179,7 +179,7 @@ sections:
     actions:
       - label: More
         url: /subscribe
-        style: primary
+        style: secondary
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: medium
