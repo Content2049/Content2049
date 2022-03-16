@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: CONTENT2049
     content: >-
-      Insights Worth Spreading
+      Insights About Future
     actions:
       - label: Subscribe to Podcast
         url: /subscribe
@@ -23,7 +23,7 @@ sections:
     background_image_opacity: 20
     has_border: true
   - type: hero_section
-    title: Speakers of Past Talks
+    title: Speakers of Previous Talks
     align: center
     padding_top: large
     padding_bottom: none
@@ -257,8 +257,8 @@ sections:
     background_image_size: auto
     background_image_opacity: 98
 seo:
-  title: Content2049 | Insights Worth Spreading
-  description: Insights Worth Spreading
+  title: Content2049 | Insights About Future
+  description: Content2049 Insights About Future
   extra:
     - name: og:type
       value: website
@@ -267,7 +267,7 @@ seo:
       value: Content2049
       keyName: property
     - name: og:description
-      value: Insights Worth Spreading
+      value: Content2049 Insights About Future
       keyName: property
     - name: og:image
       value: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/images/astro.png
@@ -278,7 +278,7 @@ seo:
     - name: twitter:title
       value: Content2049
     - name: twitter:description
-      value: Insights Worth Spreading
+      value: Content2049 Insights About Future
     - name: twitter:image
       value: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/images/astro.png
       relativeUrl: true

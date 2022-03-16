@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Speakers
     subtitle: >-
-      Speakers of Past Talks
+      Speakers of Previous Talks
     align: center
     padding_top: large
     padding_bottom: none
@@ -1116,7 +1116,7 @@ sections:
   #  background_color: none
 seo:
   title: Speakers | Content2049
-  description: Speakers of Past Talks
+  description: Speakers of Previous Talks
   extra:
     - name: og:type
       value: website
@@ -1125,7 +1125,7 @@ seo:
       value: Speakers
       keyName: property
     - name: og:description
-      value: Speakers of Past Talks
+      value: Speakers of Previous Talks
       keyName: property
     - name: og:image
       value: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/images/about.jpg
@@ -1136,7 +1136,7 @@ seo:
     - name: twitter:title
       value: Speakers
     - name: twitter:description
-      value: Speakers of Past Talks
+      value: Speakers of Previous Talks
     - name: twitter:image
       value: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/images/about.jpg
       relativeUrl: true
