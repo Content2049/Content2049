@@ -291,6 +291,31 @@ sections:
             icon_position: center
             new_window: true
         actions_align: center
+      - title: Marco Moshi
+        content: DAO Lead of Polygon
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/marco.jpeg
+        image_alt: Marco Moshi Polygon
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/GrendelMarco
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+          - label: Linkedin
+            url: https://www.linkedin.com/in/marco-moshi/
+            style: link
+            has_icon: true
+            icon: linkedin
+            icon_position: center
+            new_window: true
+        actions_align: center
       - title: Nader Dabit
         content: DevRel of The Graph
         title_align: center
@@ -459,6 +484,24 @@ sections:
             icon_position: center
             new_window: true
         actions_align: center
+      - title: Kelly
+        content: CEO of Mint Gold Dust
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/kelly.jpeg
+        image_alt: Kelly Mint Gold Dust
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://mobile.twitter.com/LeValleyKelly
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
       - title: Kevin Primicerio
         content: CEO of Pianity
         title_align: center
@@ -499,6 +542,31 @@ sections:
             style: link
             has_icon: true
             icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Xin Yan
+        content: Project Lead of EthSign
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/yanxin.jpeg
+        image_alt: Xin Yan EthSign
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/realyanxin
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+          - label: Linkedin
+            url: https://www.linkedin.com/in/xin-yan-658545172/
+            style: link
+            has_icon: true
+            icon: linkedin
             icon_position: center
             new_window: true
         actions_align: center
@@ -706,6 +774,78 @@ sections:
             icon_position: center
             new_window: true
         actions_align: center
+      - title: Ben
+        content: Dao Steward of Aragon
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/b3n.jpeg
+        image_alt: Ben Aragon
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/b3nnn21
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Mara
+        content: Marketing of Solanart
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/mara.jpeg
+        image_alt: Mara Solanart
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/timerugged
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: YM
+        content: Core of Glow DAO
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/ym.jpeg
+        image_alt: YM Glow DAO
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/YMZhang12
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: vivi
+        content: Core of Glow DAO
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/vivi.jpeg
+        image_alt: vivi Glow DAO
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/viviDaBest888
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
       - title: Jayson Tan
         content: CMO of Torum Technology
         title_align: center
@@ -771,6 +911,186 @@ sections:
             style: link
             has_icon: true
             icon: linkedin
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Aly
+        content: Builder of GFX Labs
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/aly.jpeg
+        image_alt: Aly GFX Labs
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/alybartulio
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Habiba Green
+        content: Artist
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/habibagreen.jpeg
+        image_alt: Habiba Green Artist
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/Habibagreen
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Lzzy
+        content: Community Manager of MetaMask
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/Izzy.jpeg
+        image_alt: Lzzy MetaMask
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/Izzyalright
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Aoife
+        content: NFT Artist
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/aoife.jpeg
+        image_alt: Aoife NFT Artist
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://mobile.twitter.com/aoifeodwyer
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Winny
+        content: CoFounder of SHILLR
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/winny.jpeg
+        image_alt: Winny SHILLR
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://mobile.twitter.com/aoifeodwyer
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Angel
+        content: Film photographer
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/ang.jpeg
+        image_alt: Angel Film photographer
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/Ang_Ramm
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: yiki
+        content: Builder of SeeDAO
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/yiki.png
+        image_alt: yiki SeeDAO
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/huangxiaocong2
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Spelden
+        content: CoFounder of MetaJacket NFT
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/spelden.jpeg
+        image_alt: Spelden MetaJacket NFT
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/spelden
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Anneli
+        content: Creator of City Of Girls
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/anneli.jpeg
+        image_alt: Anneli City Of Girls
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/Anneli_nft
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: TheTourist
+        content: CoFounder of The Rebels
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/tourist.jpeg
+        image_alt: TheTourist The Rebels
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/NFTtourist
+            style: link
+            has_icon: true
+            icon: twitter
             icon_position: center
             new_window: true
         actions_align: center
