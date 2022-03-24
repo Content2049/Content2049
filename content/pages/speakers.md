@@ -792,24 +792,6 @@ sections:
             icon_position: center
             new_window: true
         actions_align: center
-      - title: Mara
-        content: Marketing of Solanart
-        title_align: center
-        content_align: center
-        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/mara.jpeg
-        image_alt: Mara Solanart
-        image_position: top
-        image_align: center
-        image_has_padding: true
-        actions:
-          - label: Twitter
-            url: https://twitter.com/timerugged
-            style: link
-            has_icon: true
-            icon: twitter
-            icon_position: center
-            new_window: true
-        actions_align: center
       - title: YM
         content: Core of Glow DAO
         title_align: center
