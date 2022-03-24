@@ -1,7 +1,7 @@
 ---
 title: Content2049 EP 11 Killer Tools
 subtitle: >-
-date: 2022-03-17
+date: 2022-03-24
 categories:
   - content/data/categories/season-1.yaml
 thumb_image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-11-Killer-Tools.jpeg
