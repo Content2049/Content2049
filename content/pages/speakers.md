@@ -223,13 +223,13 @@ sections:
             icon_position: center
             new_window: true
           - label: Linkedin
-            url: https://www.linkedin.com/in/jason-kam-35080625/
+            url: https://www.linkedin.com/in/jason-kam-35080625
             style: link
             has_icon: true
             icon: linkedin
             icon_position: center
             new_window: true
-        actions_align: cente
+        actions_align: center
       - title: Yawn Rong
         content: Cofounder of STEPN
         title_align: center
@@ -248,13 +248,13 @@ sections:
             icon_position: center
             new_window: true
           - label: Linkedin
-            url: https://www.linkedin.com/in/yawn-rong-4b4b1861/
+            url: https://www.linkedin.com/in/yawn-rong-4b4b1861
             style: link
             has_icon: true
             icon: linkedin
             icon_position: center
             new_window: true
-        actions_align: cente
+        actions_align: center
       - title: Eric Tang
         content: CTO of Livepeer 
         title_align: center
