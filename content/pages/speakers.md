@@ -205,6 +205,56 @@ sections:
             icon_position: center
             new_window: true
         actions_align: center
+      - title: Jason Kam
+        content: Founder of Folius Ventures
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/jason.jpeg
+        image_alt: Jason Kam Folius Ventures
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/MapleLeafCap
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+          - label: Linkedin
+            url: https://www.linkedin.com/in/jason-kam-35080625/
+            style: link
+            has_icon: true
+            icon: linkedin
+            icon_position: center
+            new_window: true
+        actions_align: cente
+      - title: Yawn Rong
+        content: Cofounder of STEPN
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/yawn.jpeg
+        image_alt: Yawn Rong STEPN
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/yawn_rong
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+          - label: Linkedin
+            url: https://www.linkedin.com/in/yawn-rong-4b4b1861/
+            style: link
+            has_icon: true
+            icon: linkedin
+            icon_position: center
+            new_window: true
+        actions_align: cente
       - title: Eric Tang
         content: CTO of Livepeer 
         title_align: center

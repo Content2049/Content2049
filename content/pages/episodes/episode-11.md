@@ -8,7 +8,9 @@ thumb_image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes
 thumb_image_alt: Content2049 EP 11 Killer Tools
 image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-EP-11-Killer-Tools.jpeg
 image_alt: Content2049 EP 11 Killer Tools
-image_position: right
+image_position: left
+episode_embed_html: >-
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0MnEJpGbxWZjtP88ZV3nn9?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 seo:
   title: Content2049 EP 11 Killer Tools
   description: Content2049 EP 11 Killer Tools
@@ -54,6 +56,8 @@ Platform: Twitter space
 4. Ben, Dao Steward, Aragon
 5. Simona,  Head of Community, Status
 6. Grendel, DAO Lead, Polygon
+
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/mEISkvDFxLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Social Media**:
 
