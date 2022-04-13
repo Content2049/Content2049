@@ -441,6 +441,42 @@ sections:
             icon_position: center
             new_window: true
         actions_align: center
+      - title: Alex Lin
+        content: Research Director of Shima Capital
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/alex.jpeg
+        image_alt: Alex Lin Shima Capital
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/linfluence
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Wyatt
+        content: Investor of Shima Capital
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/wyatt.jpeg
+        image_alt: Wyatt Shima Capital
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/wkhosrowshahi1
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
       - title: CaoYin
         content: CEO of Digital Renaissance
         title_align: center
@@ -695,6 +731,24 @@ sections:
             icon_position: center
             new_window: true
         actions_align: center
+      - title: Deniz
+        content: CEO of Space Runners
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/deniz_zgur.jpeg
+        image_alt: Deniz Space Runners
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/deniz_zgur
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
       - title: Nathan VDH
         content: Head of Growth of Snapshot  
         title_align: center
@@ -707,6 +761,42 @@ sections:
         actions:
           - label: Twitter
             url: https://twitter.com/_NathanVDH
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Max
+        content: CEO of Tea.xyz  
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/mxcl.jpeg
+        image_alt: Max Tea.xyz  
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/mxcl
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Yan Meng
+        content: Cofounder of Solv Protocol
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/myanTokenGeek.jpeg
+        image_alt: Yan Meng Solv Protocol
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/myanTokenGeek
             style: link
             has_icon: true
             icon: twitter
