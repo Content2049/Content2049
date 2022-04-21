@@ -853,6 +853,24 @@ sections:
             icon_position: center
             new_window: true
         actions_align: center
+      - title: Shane Zhu
+        content: Founder & CEO of Dehorizen
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/shenzhu.jpeg
+        image_alt: Shane Zhu Dehorizen
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/Shengdaddy
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
       - title: Harrison Seletsky
         content: Comms Head of NFTrade
         title_align: center
@@ -1072,6 +1090,24 @@ sections:
             icon_position: center
             new_window: true
         actions_align: center
+      - title: Anne
+        content: Marketing Lead of Project Galaxy
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/annewell.png
+        image_alt: Anne Project Galaxy
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/anneouellet94
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
       - title: Lzzy
         content: Community Manager of MetaMask
         title_align: center
@@ -1253,6 +1289,60 @@ sections:
         actions:
           - label: Twitter
             url: https://twitter.com/RyanCoordinator
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Krinza
+        content: Contributor of DeveloperDAO
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/krinza.jpeg
+        image_alt: Krinza DeveloperDAO
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/kayprasla
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Grace
+        content: Eco Lead of Solv Protocol
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/gracee.jpeg
+        image_alt: Grace Solv Protocol
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/0xGracee
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Sunny
+        content: Eco Lead of ShowMe
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/sunnyz.jpeg
+        image_alt: Sunny ShowMe
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/sunnyz_crypto
             style: link
             has_icon: true
             icon: twitter
