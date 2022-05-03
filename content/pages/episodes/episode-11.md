@@ -50,7 +50,7 @@ Platform: Twitter space
 
 **Speakers**:
 
-1. Howard Zen
+1. Howard, Cheer Lead, Meson Network
 2. Yanxin, Project Lead, EthSign
 3. Nathan VDH, Head of Growth, Snapshot
 4. Ben, Dao Steward, Aragon
