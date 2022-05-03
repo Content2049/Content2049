@@ -706,6 +706,114 @@ sections:
             icon_position: center
             new_window: true
         actions_align: center
+      - title: Eraser
+        content: Co-Founder of SevenX Ventures
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/losteraser.jpeg
+        image_alt: Eraser SevenX Ventures
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/losteraser
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Tom
+        content: Co-Founder of Fluence Labs
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/tom.jpeg
+        image_alt: Tom Fluence Labs
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/TheTomTrow
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Nik Kalyani
+        content: Founder of Decentology
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/nik.jpeg
+        image_alt: Nik Kalyani Decentology
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/techbubble
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Alex
+        content: CEO of Aurora
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/alexaurora.jpeg
+        image_alt: Alex Aurora
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/AlexAuroraDev
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Philip
+        content: Founder of ArDrive & AR.IO 
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/vilenarios.jpeg
+        image_alt: Philip ArDrive & AR.IO 
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/vilenarios
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Bedeho
+        content: Founder of Joystream
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/bedeho.png
+        image_alt: Bedeho Joystream
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/bedehomender
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
       - title: Prashant Maurya
         content: CEO of Spheron Protocol
         title_align: center
@@ -1192,6 +1300,132 @@ sections:
         actions:
           - label: Twitter
             url: https://twitter.com/huangxiaocong2
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Yomiko
+        content: CMO of REALY
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/yomiko.jpeg
+        image_alt: Yomiko REALY
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/yomikocap
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Susan
+        content: CEO of Petaverse Network
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/cummingssi.jpeg
+        image_alt: Susan Petaverse Network
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/cummingssi
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Jordan
+        content: Creator of PolyDoge
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/metapetzai.jpeg
+        image_alt: MetaPetz PolyDoge
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/MetaPetzAI
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Dan
+        content: CEO of Netvrk
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/dan.jpeg
+        image_alt: Dan Netvrk
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/NetVRk1
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Vito
+        content: Operation Director of Tap Fantasy
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/vito.jpeg
+        image_alt: Vito Tap Fantasy
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/VvvvvBVP
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Ben
+        content: Social Media of DogemonGO
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/ben.jpeg
+        image_alt: Ben DogemonGO
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/DogemonGoApp
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Ken
+        content: Founder of Kverso
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/ken.jpeg
+        image_alt: Ken Kverso
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/Kverso_Crypto
             style: link
             has_icon: true
             icon: twitter
