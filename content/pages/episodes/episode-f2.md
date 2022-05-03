@@ -58,7 +58,7 @@ Platform: Twitter Space
 7. Eraser, Founding Partner, @SevenXVentures
 8. Howard,Cheer Lead,@Meson Network
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/h5MCjB6MXAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/h5MCjB6MXAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Social Media**:
 

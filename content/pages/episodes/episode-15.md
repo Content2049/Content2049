@@ -57,7 +57,7 @@ Platform: Twitter space
 5. Simona,  Head of Community, Status
 6. Grendel, DAO Lead, Polygon
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/rte6LRRp9Hk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/rte6LRRp9Hk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Social Media**:
 
