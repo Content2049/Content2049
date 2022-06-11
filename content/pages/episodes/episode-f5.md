@@ -1,28 +1,28 @@
 ---
-title: Content2049 Content2049 Founders Forum V
+title: Content2049 Founders Forum V
 subtitle: >-
 date: 2022-05-12
 categories:
   - content/data/categories/season-1.yaml
 thumb_image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-Founders-Forum-V.jpeg
-thumb_image_alt: Content2049: Content2049 Founders Forum V
+thumb_image_alt: Content2049 Founders Forum V
 image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-Founders-Forum-V.jpeg
-image_alt: Content2049: Content2049 Founders Forum V
+image_alt: Content2049 Founders Forum V
 image_position: left
 episode_embed_html: >-
   <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3xyMqeN5EXw9bMSoXzBpo0?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 seo:
-  title: Content2049: Content2049 Founders Forum V
-  description: Content2049: Content2049 Founders Forum V
+  title: Content2049 Founders Forum V
+  description: Content2049 Founders Forum V
   extra:
     - name: og:type
       value: article
       keyName: property
     - name: og:title
-      value: Content2049: Content2049 Founders Forum V
+      value: Content2049 Founders Forum V
       keyName: property
     - name: og:description
-      value: Content2049: Content2049 Founders Forum V
+      value: Content2049 Founders Forum V
       keyName: property
     - name: og:image
       value: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-Founders-Forum-V.jpeg
@@ -31,9 +31,9 @@ seo:
     - name: twitter:card
       value: summary_large_image
     - name: twitter:title
-      value: Content2049: Content2049 Founders Forum V
+      value: Content2049 Founders Forum V
     - name: twitter:description
-      value: Content2049: Content2049 Founders Forum V
+      value: Content2049 Founders Forum V
     - name: twitter:image
       value: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/episodes/Content2049-Founders-Forum-V.jpeg
       relativeUrl: true
