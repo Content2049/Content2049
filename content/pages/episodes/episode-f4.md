@@ -1,5 +1,5 @@
 ---
-title: Content2049: Founders Forum Ⅳ
+title: Content2049 Founders Forum Ⅳ
 subtitle: >-
 date: 2022-05-12
 categories:
