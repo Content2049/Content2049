@@ -230,6 +230,24 @@ sections:
             icon_position: center
             new_window: true
         actions_align: center
+      - title: Jonathan
+        content: BD & Product Lead of Protocol Labs
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/jnthnvctr.jpeg
+        image_alt: Jonathan Protocol Labs
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/jnthnvctr
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
       - title: Yawn Rong
         content: Cofounder of STEPN
         title_align: center
@@ -310,6 +328,96 @@ sections:
         actions:
           - label: Twitter
             url: https://twitter.com/xylophonezy
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Viktor
+        content: Founder of Ethereum Swarm
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/zeligf.jpeg
+        image_alt: Viktor Ethereum Swarm
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/zeligf
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Kenny
+        content: Founder of Manta Network
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/superanonymousk.jpeg
+        image_alt: Kenny Manta Network
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/superanonymousk
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Harsh Rajat
+        content: Founder of EPNS.IO
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/harshrajat.jpeg
+        image_alt: Harsh Rajat EPNS.IO
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/harshrajat
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Zac
+        content: CoFounder of Filebase
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/zac.jpeg
+        image_alt: Zac Filebase
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/Filebase
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: CodeInCoffee
+        content: CoFounder of BendDAO
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/CodeInCoffee.png
+        image_alt: CodeInCoffee BendDAO
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/CodeInCoffee
             style: link
             has_icon: true
             icon: twitter
@@ -631,6 +739,24 @@ sections:
             icon_position: center
             new_window: true
         actions_align: center
+      - title: Luke
+        content: Core Developer of Crust
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/baaadkk.jpeg
+        image_alt: Luke Crust
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/baaadkk
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
       - title: Xin Yan
         content: Project Lead of EthSign
         title_align: center
@@ -808,6 +934,24 @@ sections:
         actions:
           - label: Twitter
             url: https://twitter.com/bedehomender
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Dan
+        content: Founder of YGG SEA
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/0x5tryker.jpeg
+        image_alt: Dan YGG SEA
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/0x5tryker
             style: link
             has_icon: true
             icon: twitter
@@ -1016,6 +1160,114 @@ sections:
         actions:
           - label: Twitter
             url: https://twitter.com/OccultDegen
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Denis
+        content: Founder of Vera Labs
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/VeraDeFi.jpeg
+        image_alt: Denis Vera Labs
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: hhttps://twitter.com/VeraDeFi
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Gabe
+        content: Founder of Arcade
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/stanleycrup.jpeg
+        image_alt: Gabe Arcade
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/stanleycrup
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Leo
+        content: Core Contributor of XCarnival
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/XCarnival.jpeg
+        image_alt: Leo XCarnival
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/XCarnival_Lab
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Frank
+        content: Founder of Ultiverse
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/0xFrankM.jpeg
+        image_alt: Frank Ultiverse
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/0xFrankM
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Won
+        content: CoFounder of Space Runners
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/SpaceRunnersNFT.jpeg
+        image_alt: Won Space Runners
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/SpaceRunnersNFT
+            style: link
+            has_icon: true
+            icon: twitter
+            icon_position: center
+            new_window: true
+        actions_align: center
+      - title: Zach
+        content: Head of Gaming of Everyrealm
+        title_align: center
+        content_align: center
+        image: https://cdn.jsdelivr.net/gh/Content2049/Content2049/public/speakers/MeeZeesGames.jpeg
+        image_alt: Zach Everyrealm 
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        actions:
+          - label: Twitter
+            url: https://twitter.com/MeeZeesGames
             style: link
             has_icon: true
             icon: twitter
